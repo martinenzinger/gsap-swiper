@@ -1,12 +1,17 @@
 ## gsap-swiper
-<br><br>
+<br>
+
 depends on gsap v3 and the Draggable plugin (included in [free license](https://greensock.com/standard-license/))
+
+
+### [https://gsap-swiper.vercel.app/](https://gsap-swiper.vercel.app/)
+
 <br>
-[Demo](https://gsap-swiper.vercel.app/)
-<br>
+
 ```bash
 npm install --save gsap # yarn add gsap
 ```
+
 <br><br>
 
 ![gsap-swiper](https://github.com/martinenzinger/gsap-swiper/raw/main/images/gsap-swiper.png "gsap-swiper")
