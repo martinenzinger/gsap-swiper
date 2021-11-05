@@ -2,6 +2,8 @@
 <br><br>
 depends on gsap v3 and the Draggable plugin (included in [free license](https://greensock.com/standard-license/))
 <br>
+[Demo](https://gsap-swiper.vercel.app/)
+<br>
 ```bash
 npm install --save gsap # yarn add gsap
 ```
@@ -122,6 +124,6 @@ swiper.initSwiper();
 
 <br><br>
 
-### If you can use the Inertia plugin: [Codepen - Draggable Auto-Slider](https://codepen.io/GreenSock/pen/GRJwLNP)
+#### If you can use the Inertia plugin: [Codepen - Draggable Auto-Slider](https://codepen.io/GreenSock/pen/GRJwLNP)
 
-<br><br><br><br><br>
+<br><br><br>
