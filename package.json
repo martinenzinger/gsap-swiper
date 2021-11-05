@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "start": "tsdx watch",
+    "build": "tsdx build",
+    "test": "tsdx test",
+    "lint": "tsdx lint",
+    "prepare": "tsdx build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinenzinger/gsap-swiper.git"
+  },
+  "peerDependencies": {
+    "gsap": ">=3"
+  },
+  "name": "gsap-swiper",
+  "author": "Martin Enzinger",
+  "module": "dist/gsap-swiper.esm.js",
+  "devDependencies": {
+    "gsap": "^3.8.0",
+    "tsdx": "^0.14.1",
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {}
+}
